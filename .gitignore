@@ -1,0 +1,12 @@
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+Database/Client2_secret.json
+.vscode/launch.json
+JSON_Files/Secrets/Clients/Client1_secret.json
+JSON_Files/Secrets/Service_Accounts/Service_account_cred.json
+JSON_Files/Tokens/tokenClient1_secret.json
+JSON_Files/Tokens/tokenClient2_secret.json
+Database/AllClients.db
+Database/data_15.db
+Database/Olddata_15.db
+Database/Rhythm.db
