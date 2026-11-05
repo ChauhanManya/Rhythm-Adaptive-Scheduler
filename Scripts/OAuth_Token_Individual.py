@@ -8,7 +8,6 @@ TOKEN_FOLDER = "JSON_Files/Tokens"
 REDIRECT_URI = "https://www.google.com"
 SCOPES = [
     "https://www.googleapis.com/auth/googlehealth.health_metrics_and_measurements.readonly",
-    #"https://www.googleapis.com/auth/spreadsheets.readonly",
     "https://www.googleapis.com/auth/googlehealth.sleep.readonly"
 ]
 
