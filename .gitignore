@@ -11,7 +11,11 @@ Database/data_15.db
 Database/Olddata_15.db
 Database/Rhythm.db
 JSON_Files/Secrets/Clients/Client2_secret.json
+<<<<<<< HEAD
 Database/HRV_AllClients.db
 JSON_Files/Secrets/Clinets_not_used/Client3_secret.json
 JSON_Files/Secrets/Clinets_not_used/Client4_secret.json
 JSON_Files/Secrets/Clinets_not_used/Client5_secret.json
+=======
+JSON_Files/Secrets/Clients/Client3_secret.json
+>>>>>>> e9253d8c2739853d1be5b26dea62c505ee4343dc
